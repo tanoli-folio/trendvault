@@ -1,31 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://trendvault.pages.dev/</loc>
+    <loc>https://tanoli-folio.github.io/trendvault/</loc>
     <lastmod>2026-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://trendvault.pages.dev/privacy.html</loc>
+    <loc>https://tanoli-folio.github.io/trendvault/posts/2026-05-17-mini-led-projector.html</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tanoli-folio.github.io/trendvault/posts/2026-05-17-posture-corrector-device.html</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tanoli-folio.github.io/trendvault/privacy.html</loc>
     <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://trendvault.pages.dev/terms.html</loc>
+    <loc>https://tanoli-folio.github.io/trendvault/terms.html</loc>
     <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://trendvault.pages.dev/cookies.html</loc>
+    <loc>https://tanoli-folio.github.io/trendvault/cookies.html</loc>
     <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://trendvault.pages.dev/affiliate-disclosure.html</loc>
+    <loc>https://tanoli-folio.github.io/trendvault/affiliate-disclosure.html</loc>
     <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
