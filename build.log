@@ -1,0 +1,18 @@
+Warning: no stdin data received in 3s, proceeding without it. If piping from a slow command, redirect stdin explicitly: < /dev/null to skip, or wait longer.
+All 12 files created in `~/trendvault/`:
+
+**Pages**
+- `index.html` — hero + 6-card trend grid + tab filters (All/TikTok/Instagram/YouTube/Amazon) + newsletter + 3 article cards + footer. Full JSON-LD (Organization, WebSite, Article, SubscribeAction, BreadcrumbList), OG/Twitter tags, canonical, ARIA labels, skip link, gradient placeholders for product imagery.
+- `privacy.html` — UK GDPR / DPA 2018 / EU GDPR compliant, ICO reference, data rights, retention, third-party services, AdSense.
+- `terms.html` — affiliate disclosure, content disclaimer, IP, user conduct, liability cap, **governing law: England & Wales**.
+- `affiliate-disclosure.html` — FTC 16 CFR §255 + ASA CAP Code compliant, required Amazon Associates statement.
+- `cookies.html` — AdSense cookies (`NID`, `IDE`, `DSID`), analytics, opt-out links, PECR/GDPR consent.
+
+**Assets**
+- `style.css` — Inter via Google Fonts with `font-display: swap`, CSS custom properties, dark default + `[data-theme="light"]` override, Stripe/Linear-inspired gradients, GPU-only animations (`transform`/`opacity`), reveal classes for IntersectionObserver, responsive grid, focus-visible, reduced-motion support.
+- `script.js` — vanilla JS only: theme toggle with `localStorage`, hamburger mobile nav, tab filtering, email regex validation + mock submit with success/error feedback, IntersectionObserver for reveal + lazy `data-src` images, smooth-scroll with focus management, back-to-top.
+
+**Deployment**
+- `robots.txt`, `sitemap.xml` (5 URLs), `_redirects` (legacy paths + 404 fallback), `_headers` (CSP whitelisting AdSense/Analytics/Fonts, HSTS, X-Frame-Options, Permissions-Policy disabling FLoC, immutable cache for CSS/JS).
+
+Affiliate links use `rel="nofollow noopener noreferrer"` with a visible `<span class="aff-badge">AD</span>` indicator. All pages share the same sticky header (with theme toggle + hamburger), footer, back-to-top button, and skip link.

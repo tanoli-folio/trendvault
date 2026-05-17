@@ -1,0 +1,16 @@
+# Cloudflare Pages redirects
+# Format: from  to  status
+
+# Normalise trailing slashes for legal pages
+/privacy           /privacy.html            301
+/terms             /terms.html              301
+/cookies           /cookies.html            301
+/disclosure        /affiliate-disclosure.html 301
+/affiliate         /affiliate-disclosure.html 301
+
+# Common typos / legacy
+/index             /                        301
+/home              /                        301
+
+# SPA-style fallback for unknown paths
+/*                 /index.html              404
