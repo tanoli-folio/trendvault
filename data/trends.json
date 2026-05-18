@@ -1,182 +1,148 @@
 {
-  "date": "2026-05-17",
-  "scan_timestamp": "2026-05-17T04:51:00Z",
+  "date": "2026-05-18",
+  "scan_timestamp": "2026-05-18T07:05:33Z",
   "trends": [
     {
-      "name": "3D Crystal Moon Lamp with Custom Photo",
-      "platform": "TikTok",
-      "category": "home",
-      "viral_hook": "Personalised custom photo printed on 3D crystal moon lamp — unique gift idea with emotional resonance. ASMR-style unboxing and lighting transformation videos drive shares.",
-      "engagement_estimate": "2M+ views across top videos",
+      "name": "PDRN Cream (Skincare Regenerative)",
+      "platform": "TikTok, Instagram",
+      "category": "beauty",
+      "viral_hook": "Korean skincare regenerative ingredient \u2014 PDRN (Polydeoxyribonucleotide) promotes collagen production and skin healing. Before/after transformation videos showing anti-aging results. ExplodingTopics growth: +5900%.",
+      "engagement_estimate": "40.5K search volume, +5900% growth on ExplodingTopics",
       "affiliate_potential": "high",
       "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates",
-      "notes": "Personalisation trend continues strong. Great for gifting seasonal (Mother's Day, graduations). Low competition from Chinese suppliers on CJ/Spocket."
+      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
+      "notes": "Massive ExplodingTopics surge. Beauty niche with high engagement. PDRN is the new buzz ingredient replacing retinol in TikTok skincare circles. Higher price point ($30-60) means better commissions."
+    },
+    {
+      "name": "GLP-1 Supplement (Natural Weight Loss)",
+      "platform": "TikTok, Instagram",
+      "category": "fitness",
+      "viral_hook": "Natural alternative to Ozempic/Wegovy \u2014 GLP-1 supplements for appetite control and glucose metabolism. 'Natural Ozempic' trend driving massive search volume. FDA scrutiny on compounded GLP-1 drugs pushing consumers toward supplements.",
+      "engagement_estimate": "49.5K search volume, +925% growth on ExplodingTopics",
+      "affiliate_potential": "high",
+      "commission_type": "physical",
+      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
+      "notes": "Ozempic/weight loss trend continues to dominate. GLP-1 supplements are the affiliate-safe alternative. High price point ($40-80/month) and recurring purchases. Massive audience overlap with fitness community."
+    },
+    {
+      "name": "Cat Toothpaste (Pet Dental Care)",
+      "platform": "TikTok",
+      "category": "pets",
+      "viral_hook": "Specialised cat toothpaste in poultry/malt flavors \u2014 pet owners show their cats tolerating (or loving) toothbrushing. 'My cat's dental hygiene journey' format with before/after of tartar removal.",
+      "engagement_estimate": "14.8K search volume, +900% growth on ExplodingTopics",
+      "affiliate_potential": "medium",
+      "commission_type": "physical",
+      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
+      "notes": "Pet niche is evergreen and highly engaged. Recurring purchase (monthly toothpaste replacement). Niche enough to have low competition, broad enough for good volume."
+    },
+    {
+      "name": "Plant Chocolate Protein Powder",
+      "platform": "Instagram, TikTok",
+      "category": "fitness",
+      "viral_hook": "Vegan chocolate protein powder \u2014 smoothie and protein shake recipe content. 'Healthy chocolate' angle appeals to both fitness and wellness audiences. Plant-based + chocolate = guilt-free indulgence.",
+      "engagement_estimate": "480 search volume, +2400% growth on ExplodingTopics",
+      "affiliate_potential": "medium",
+      "commission_type": "physical",
+      "suggested_affiliate_program": "Amazon Associates / Spocket",
+      "notes": "Vegan protein is a massive and growing market. Recurring purchases from subscription models. Good for recipe/demo content. May through June is peak fitness season."
+    },
+    {
+      "name": "Podcast Microphone (USB Condenser)",
+      "platform": "YouTube, TikTok",
+      "category": "gadgets",
+      "viral_hook": "Affordable USB podcast microphone for content creators \u2014 setup tutorials and 'upgrade your audio quality' videos. Creator economy driving demand. Unboxing and audio comparison content is highly shareable.",
+      "engagement_estimate": "60.5K search volume, +1150% growth on ExplodingTopics",
+      "affiliate_potential": "high",
+      "commission_type": "physical",
+      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
+      "notes": "Creator economy boom = sustained demand. Higher ticket ($50-150) = better commissions. Endless comparison/review content possible. Summer is peak podcast launch season."
+    },
+    {
+      "name": "PDRN Toner (Anti-Aging Skincare)",
+      "platform": "TikTok",
+      "category": "beauty",
+      "viral_hook": "PDRN-infused toner for anti-aging \u2014 smooths fine lines, softens dryness, revives tired skin. Companion product to PDRN cream. Layered skincare routine videos drive sales.",
+      "engagement_estimate": "2.4K search volume, +5600% growth on ExplodingTopics",
+      "affiliate_potential": "medium",
+      "commission_type": "physical",
+      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
+      "notes": "Riding the PDRN wave. Lower individual price ($15-30) but high volume. Stacking with PDRN cream creates upsell opportunity. Beauty TikTok is the most engaged audience."
+    },
+    {
+      "name": "Everlane (Fashion Brand \u2014 Trending Search)",
+      "platform": "Google Trends, Instagram",
+      "category": "fashion",
+      "viral_hook": "Everlane trending on Google with +200% search volume spike. Sustainable fashion brand with 'radical transparency' positioning. Likely new collection drop or influencer campaign driving searches.",
+      "engagement_estimate": "10K+ Google search spike, +200%",
+      "affiliate_potential": "medium",
+      "commission_type": "physical",
+      "suggested_affiliate_program": "Amazon Associates (Everlane on Amazon)",
+      "notes": "Google Trends showing Everlane at 10K+ searches with 200% increase. Sustainable fashion trend ongoing. Could pair with capsule wardrobe content."
     },
     {
       "name": "Posture Corrector Device",
       "platform": "TikTok",
       "category": "fitness",
-      "viral_hook": "Before/after transformations showing posture improvement for remote workers. 'Worn for 30 days — what changed' format.",
+      "viral_hook": "Before/after transformations showing posture improvement for remote workers. 'Worn for 30 days \u2014 what changed' format continues to perform.",
       "engagement_estimate": "3.1M+ views, strong comment engagement",
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Work-from-home permanence driving sustained demand. Broad demographic appeal — office workers, gamers, elderly."
+      "notes": "Work-from-home permanence driving sustained demand. Broad demographic appeal \u2014 office workers, gamers, elderly. Evergreen product with consistent TikTok performance."
     },
     {
       "name": "Mini LED Projector",
       "platform": "TikTok, Instagram",
       "category": "gadgets",
-      "viral_hook": "Turn your bedroom wall into a movie theatre — compact, affordable, perfect for small spaces. 'TikTok made me buy it' format.",
+      "viral_hook": "Turn your bedroom wall into a movie theatre \u2014 compact, affordable, perfect for small spaces. Summer outdoor movie season approaching.",
       "engagement_estimate": "2-2.5M+ views across platforms",
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / Spocket",
-      "notes": "Summer outdoor movie season approaching. Higher ticket item ($50-150) means better commission per sale."
-    },
-    {
-      "name": "Rechargeable Candle Lighter (Plasma Arc)",
-      "platform": "TikTok",
-      "category": "home",
-      "viral_hook": "Windproof electric arc lighter — satisfying spark effect, USB rechargeable, no gas needed. Satisfying ASMR ignition videos.",
-      "engagement_estimate": "1.5M+ views",
-      "affiliate_potential": "high",
-      "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Low cost ($10-20), high volume potential. Works as impulse buy add-on. Eco-friendly angle appeals to sustainability crowd."
-    },
-    {
-      "name": "Auto-Dimming Folding Smart Mirror",
-      "platform": "TikTok",
-      "category": "beauty",
-      "viral_hook": "LED-lit smart mirror with auto-dimming, foldable design — beauty vloggers showcase makeup application with perfect lighting.",
-      "engagement_estimate": "1.9M+ views",
-      "affiliate_potential": "high",
-      "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates / Spocket",
-      "notes": "Beauty community is highly engaged and purchases frequently. Good for ~$30-80 price point."
+      "notes": "Summer outdoor movie season beginning. Higher ticket item ($50-150) means better commission per sale. Seasonal peak is May-July."
     },
     {
       "name": "Neck Fan (Portable Wearable)",
       "platform": "Instagram, TikTok",
       "category": "gadgets",
-      "viral_hook": "Hands-free personal fan — summer essential for commuting, outdoor work, and events. Dual-blade design.",
+      "viral_hook": "Hands-free personal fan \u2014 summer essential for commuting, outdoor work, and events. Dual-blade design with neckband form factor.",
       "engagement_estimate": "3M+ views on top Instagram Reels",
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Seasonal peak approaching (Northern Hemisphere summer). Classic seasonal trending product with predictable demand surge."
-    },
-    {
-      "name": "Smart Water Bottle",
-      "platform": "Amazon, TikTok",
-      "category": "fitness",
-      "viral_hook": "Tracks water intake, syncs to phone app, LED reminders to hydrate. Health-tech crossover.",
-      "engagement_estimate": "5,000+ recent Amazon reviews, trending in health categories",
-      "affiliate_potential": "medium",
-      "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates",
-      "notes": "Higher price point ($40-80) but more niche audience. Wellness trend supporting sustained interest."
-    },
-    {
-      "name": "Instant Cup Noodle Maker",
-      "platform": "TikTok",
-      "category": "home",
-      "viral_hook": "Quick microwave meal prep gadget — college students and busy professionals. ASMR food prep content.",
-      "engagement_estimate": "800K+ likes on top videos",
-      "affiliate_potential": "medium",
-      "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Low price point ($10-20), high volume. College/student demographic is price-sensitive but high conversion."
-    },
-    {
-      "name": "Adjustable Laptop Desk (Bed Tray)",
-      "platform": "TikTok",
-      "category": "home",
-      "viral_hook": "Work-from-home/study comfort — adjustable height, foldable, laptop + snacks built-in. Desk setup content.",
-      "engagement_estimate": "2.2M+ views",
-      "affiliate_potential": "medium",
-      "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates / Spocket",
-      "notes": "Remote work trend continues to fuel demand. Versatile — students, WFH professionals, gamers."
-    },
-    {
-      "name": "Foldable Electric Kettle (Travel)",
-      "platform": "Amazon, YouTube",
-      "category": "home",
-      "viral_hook": "Silicone collapsible travel kettle — boils water in 3 mins, packs flat. Travel hack content on YouTube.",
-      "engagement_estimate": "150%+ sales increase reported, strong YouTube review coverage",
-      "affiliate_potential": "medium",
-      "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates",
-      "notes": "Travel season approaching. Unique USP (foldable) makes it stand out from standard kettles."
-    },
-    {
-      "name": "Water Flosser (Cordless)",
-      "platform": "Instagram",
-      "category": "home",
-      "viral_hook": "Better than string flossing — dental hygiene upgrade with visible 'proof' shots of removed debris.",
-      "engagement_estimate": "900K+ views on top Reels",
-      "affiliate_potential": "high",
-      "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates",
-      "notes": "Dental aesthetics content performs well. Recurring purchase (replacement heads) adds long-term value."
+      "notes": "Seasonal peak arriving (Northern Hemisphere summer). Classic seasonal trending product with predictable demand surge. Mid-May is perfect timing."
     },
     {
       "name": "Pet Hair Remover (ChomChom-style)",
       "platform": "TikTok, Instagram",
       "category": "pets",
-      "viral_hook": "Satisfying before/after of pet hair removal from furniture. 'Look how much hair this removed' reveal format.",
+      "viral_hook": "Satisfying before/after of pet hair removal from furniture. 'Look how much hair this removed' reveal format drives insane share rates.",
       "engagement_estimate": "1M+ views, high share rate across pet communities",
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Pet owner market is massive and emotionally engaged. Reusable design appeals to eco-conscious buyers."
-    },
-    {
-      "name": "Portable Photo Printer (Mini Pocket)",
-      "platform": "TikTok, Instagram",
-      "category": "gadgets",
-      "viral_hook": "Print wallet-sized photos instantly from your phone — scrapbooking, journaling, photo wall content.",
-      "engagement_estimate": "1-2M+ views across platforms",
-      "affiliate_potential": "medium",
-      "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates",
-      "notes": "Good margins on printer + recurring revenue from paper/ink refills. Journaling/scrapbooking trend on TikTok."
-    },
-    {
-      "name": "Organza Jewelry Bags (Bulk)",
-      "platform": "TikTok",
-      "category": "home",
-      "viral_hook": "Aesthetic small business packaging — jewellery storage and gift-giving with cute drawstring bags. 'Small biz packaging haul' content.",
-      "engagement_estimate": "500K-1M views across trend videos",
-      "affiliate_potential": "low",
-      "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates",
-      "notes": "Niche — targets small business owners and resellers. Low per-unit price but bulk orders increase value."
+      "notes": "Pet owner market is massive and emotionally engaged. Reusable design appeals to eco-conscious buyers. Spring shedding season = peak demand."
     },
     {
       "name": "LED Strip Lights (Smart RGBIC)",
       "platform": "TikTok",
       "category": "home",
-      "viral_hook": "Room transformation videos — gaming setups, bedroom aesthetics, music-synced lighting displays.",
+      "viral_hook": "Room transformation videos \u2014 gaming setups, bedroom aesthetics, music-synced lighting displays. 'TikTok made me buy it' category leader.",
       "engagement_estimate": "1.5M+ views, consistent high volume",
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Evergreen TikTok product — consistent volume year-round. Low price ($10-30), broad demographic. High competition."
+      "notes": "Evergreen TikTok product \u2014 consistent volume year-round. Low price ($10-30), broad demographic appeal."
     }
   ],
-  "source_summary": "Searched: 'trending products TikTok May 2026 dropshipping', 'viral products Instagram reels 2026', 'winning products dropshipping 2026', 'products going viral on TikTok right now', 'ecommerce trends this week', 'viral Amazon products this week', 'trending TikTok products dropshippers are selling right now', 'tiktok made me buy it May 2026', 'best selling products on TikTok shop May 2026', 'new trending products TikTok spring 2026', 'viral gadget TikTok 2026'. Cross-referenced trends across TikTok, Instagram Reels, Amazon bestsellers, and YouTube. Data compiled from web search results. No CloakBrowser session used (stealth browsing not required for this search type).",
+  "source_summary": "Searched: Google Trends (trending searches US, category 18 - Shopping), ExplodingTopics.com (live trend data showing volume + growth percentages), Bing search for winning products. Data collected via Playwright headless browser + CloakBrowser stealth fingerprinting. Amazon Movers & Shakers and TikTok Shop Best Sellers were inaccessible (CAPTCHA/block). Cross-referenced fresh ExplodingTopics data with established TikTok/Instagram viral product patterns for May 2026.",
   "top_categories": {
-    "home": 6,
+    "beauty": 2,
+    "fitness": 3,
+    "pets": 2,
     "gadgets": 3,
-    "fitness": 2,
-    "beauty": 1,
-    "pets": 1,
-    "electronics": 1,
-    "kitchen": 1
+    "home": 1,
+    "fashion": 1
   },
   "recommended_affiliate_programs": [
     "Amazon Associates",
