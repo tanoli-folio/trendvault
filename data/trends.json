@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-18",
-  "scan_timestamp": "2026-05-18T07:05:33Z",
+  "date": "2026-05-19",
+  "scan_timestamp": "2026-05-19T07:00:58Z",
   "trends": [
     {
       "name": "PDRN Cream (Skincare Regenerative)",
@@ -11,7 +11,7 @@
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Massive ExplodingTopics surge. Beauty niche with high engagement. PDRN is the new buzz ingredient replacing retinol in TikTok skincare circles. Higher price point ($30-60) means better commissions."
+      "notes": "Massive ExplodingTopics surge sustained week-over-week. Beauty niche with high engagement. PDRN is the new buzz ingredient replacing retinol in TikTok skincare circles. Higher price point ($30-60) means better commissions."
     },
     {
       "name": "GLP-1 Supplement (Natural Weight Loss)",
@@ -22,7 +22,7 @@
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Ozempic/weight loss trend continues to dominate. GLP-1 supplements are the affiliate-safe alternative. High price point ($40-80/month) and recurring purchases. Massive audience overlap with fitness community."
+      "notes": "Ozempic/weight loss trend continues to dominate. GLP-1 supplements are the affiliate-safe alternative. High price point ($40-80/month) and recurring purchases. Massive audience overlap with fitness community. Search volume stable from last week."
     },
     {
       "name": "Cat Toothpaste (Pet Dental Care)",
@@ -33,7 +33,7 @@
       "affiliate_potential": "medium",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Pet niche is evergreen and highly engaged. Recurring purchase (monthly toothpaste replacement). Niche enough to have low competition, broad enough for good volume."
+      "notes": "Pet niche is evergreen and highly engaged. Recurring purchase (monthly toothpaste replacement). Niche enough to have low competition, broad enough for good volume. Consistent performer."
     },
     {
       "name": "Plant Chocolate Protein Powder",
@@ -44,7 +44,7 @@
       "affiliate_potential": "medium",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / Spocket",
-      "notes": "Vegan protein is a massive and growing market. Recurring purchases from subscription models. Good for recipe/demo content. May through June is peak fitness season."
+      "notes": "Vegan protein is a massive and growing market. Recurring purchases from subscription models. Good for recipe/demo content. Late May through summer is peak fitness season."
     },
     {
       "name": "Podcast Microphone (USB Condenser)",
@@ -55,7 +55,7 @@
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Creator economy boom = sustained demand. Higher ticket ($50-150) = better commissions. Endless comparison/review content possible. Summer is peak podcast launch season."
+      "notes": "Highest volume product this week at 60.5K. Creator economy boom = sustained demand. Higher ticket ($50-150) = better commissions. Endless comparison/review content possible. Summer is peak podcast launch season."
     },
     {
       "name": "PDRN Toner (Anti-Aging Skincare)",
@@ -69,37 +69,48 @@
       "notes": "Riding the PDRN wave. Lower individual price ($15-30) but high volume. Stacking with PDRN cream creates upsell opportunity. Beauty TikTok is the most engaged audience."
     },
     {
-      "name": "Everlane (Fashion Brand \u2014 Trending Search)",
-      "platform": "Google Trends, Instagram",
-      "category": "fashion",
-      "viral_hook": "Everlane trending on Google with +200% search volume spike. Sustainable fashion brand with 'radical transparency' positioning. Likely new collection drop or influencer campaign driving searches.",
-      "engagement_estimate": "10K+ Google search spike, +200%",
+      "name": "Sony PlayStation Plus Price Hike",
+      "platform": "Google Trends",
+      "category": "gadgets",
+      "viral_hook": "Sony increasing PlayStation Plus subscription prices \u2014 gamers searching for alternatives and renewal info before price goes into effect. Gaming community outrage driving discussion.",
+      "engagement_estimate": "20K+ Google searches, +200% spike in 24h",
       "affiliate_potential": "medium",
+      "commission_type": "digital",
+      "suggested_affiliate_program": "Amazon Associates (PS Gift Cards / Hardware)",
+      "notes": "Fresh Google Trends signal \u2014 price hike news broke in last 10 hours. Good opportunity for gaming/gadget content. Can target gift card or hardware affiliate linking."
+    },
+    {
+      "name": "Apple Card AirPods Pro Promo",
+      "platform": "Google Trends",
+      "category": "gadgets",
+      "viral_hook": "Apple Card promotional financing for AirPods Pro \u2014 0% APR financing deal driving searches. Tech deal hunters looking for best price on premium wireless earbuds.",
+      "engagement_estimate": "2K+ Google searches, +75% spike in 24h",
+      "affiliate_potential": "high",
       "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates (Everlane on Amazon)",
-      "notes": "Google Trends showing Everlane at 10K+ searches with 200% increase. Sustainable fashion trend ongoing. Could pair with capsule wardrobe content."
+      "suggested_affiliate_program": "Amazon Associates (AirPods Pro)",
+      "notes": "AirPods Pro are premium ($200+) with excellent commission. Promo-driven surge means people are actively shopping. Fresh trend from Google Trends Shopping category."
     },
     {
       "name": "Posture Corrector Device",
       "platform": "TikTok",
       "category": "fitness",
-      "viral_hook": "Before/after transformations showing posture improvement for remote workers. 'Worn for 30 days \u2014 what changed' format continues to perform.",
+      "viral_hook": "Before/after transformations showing posture improvement for remote workers. 'Worn for 30 days \u2014 what changed' format continues to perform. Work-from-home permanence driving sustained demand.",
       "engagement_estimate": "3.1M+ views, strong comment engagement",
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Work-from-home permanence driving sustained demand. Broad demographic appeal \u2014 office workers, gamers, elderly. Evergreen product with consistent TikTok performance."
+      "notes": "Work-from-home permanence driving sustained demand. Broad demographic appeal \u2014 office workers, gamers, elderly. Evergreen product with consistent TikTok performance. No ExplodingTopics change \u2014 classic evergreen."
     },
     {
       "name": "Mini LED Projector",
       "platform": "TikTok, Instagram",
       "category": "gadgets",
-      "viral_hook": "Turn your bedroom wall into a movie theatre \u2014 compact, affordable, perfect for small spaces. Summer outdoor movie season approaching.",
+      "viral_hook": "Turn your bedroom wall into a movie theatre \u2014 compact, affordable, perfect for small spaces. Summer outdoor movie season now in full swing.",
       "engagement_estimate": "2-2.5M+ views across platforms",
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / Spocket",
-      "notes": "Summer outdoor movie season beginning. Higher ticket item ($50-150) means better commission per sale. Seasonal peak is May-July."
+      "notes": "Summer outdoor movie season now at peak \u2014 late May is prime time. Higher ticket item ($50-150) means better commission per sale. Seasonal peak is May-July."
     },
     {
       "name": "Neck Fan (Portable Wearable)",
@@ -110,7 +121,7 @@
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Seasonal peak arriving (Northern Hemisphere summer). Classic seasonal trending product with predictable demand surge. Mid-May is perfect timing."
+      "notes": "Seasonal peak arriving (Northern Hemisphere summer). Classic seasonal trending product with predictable demand surge. Late May is perfect timing."
     },
     {
       "name": "Pet Hair Remover (ChomChom-style)",
@@ -121,7 +132,7 @@
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Pet owner market is massive and emotionally engaged. Reusable design appeals to eco-conscious buyers. Spring shedding season = peak demand."
+      "notes": "Pet owner market is massive and emotionally engaged. Reusable design appeals to eco-conscious buyers. Spring shedding season = peak demand (running through June)."
     },
     {
       "name": "LED Strip Lights (Smart RGBIC)",
@@ -135,14 +146,13 @@
       "notes": "Evergreen TikTok product \u2014 consistent volume year-round. Low price ($10-30), broad demographic appeal."
     }
   ],
-  "source_summary": "Searched: Google Trends (trending searches US, category 18 - Shopping), ExplodingTopics.com (live trend data showing volume + growth percentages), Bing search for winning products. Data collected via Playwright headless browser + CloakBrowser stealth fingerprinting. Amazon Movers & Shakers and TikTok Shop Best Sellers were inaccessible (CAPTCHA/block). Cross-referenced fresh ExplodingTopics data with established TikTok/Instagram viral product patterns for May 2026.",
+  "source_summary": "Searched via CloakBrowser (stealth Chromium): ExplodingTopics.com (live trend data showing volume + growth percentages), Google Trends Shopping category trending searches (past 24h, geo=US). Amazon Movers & Shakers returned generic page (blocked). Cross-referenced fresh ExplodingTopics data with established TikTok/Instagram viral product patterns for late May 2026. New Google Trends signals: Sony PlayStation Plus price hike (+200%, 20K+ searches), Apple Card AirPods Pro promo (+75%, 2K+ searches).",
   "top_categories": {
-    "beauty": 2,
+    "gadgets": 5,
     "fitness": 3,
+    "beauty": 2,
     "pets": 2,
-    "gadgets": 3,
-    "home": 1,
-    "fashion": 1
+    "home": 1
   },
   "recommended_affiliate_programs": [
     "Amazon Associates",
