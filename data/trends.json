@@ -1,29 +1,7 @@
 {
-  "date": "2026-05-21",
-  "scan_timestamp": "2026-05-21T07:02:37Z",
+  "date": "2026-05-22",
+  "scan_timestamp": "2026-05-22T07:01:40Z",
   "trends": [
-    {
-      "name": "GLP-1 Supplement (Natural Weight Loss)",
-      "platform": "TikTok, Instagram",
-      "category": "fitness",
-      "viral_hook": "Natural alternative to Ozempic/Wegovy \u2014 GLP-1 supplements for appetite control and glucose metabolism. 'Natural Ozempic' trend driving massive search volume. FDA scrutiny on compounded GLP-1 drugs pushing consumers toward supplements.",
-      "engagement_estimate": "49.5K search volume, +925% growth on ExplodingTopics",
-      "affiliate_potential": "high",
-      "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Holding at 49.5K \u2014 stable high-volume trend. Summer weight loss season arriving. $40-80/month recurring purchase."
-    },
-    {
-      "name": "Podcast Microphone (USB Condenser)",
-      "platform": "YouTube, TikTok",
-      "category": "gadgets",
-      "viral_hook": "Affordable USB podcast microphone for content creators \u2014 setup tutorials and 'upgrade your audio quality' videos. Creator economy driving demand. Unboxing and audio comparison content is highly shareable.",
-      "engagement_estimate": "60.5K search volume, +1150% growth on ExplodingTopics",
-      "affiliate_potential": "high",
-      "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Highest volume at 60.5K \u2014 sustained for consecutive weeks. Summer podcast launch season. $50-150 price point."
-    },
     {
       "name": "PDRN Cream (Skincare Regenerative)",
       "platform": "TikTok, Instagram",
@@ -33,7 +11,7 @@
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Sustained at 40.5K for third consecutive week. PDRN solidifying as retinol replacement. Price point $30-60."
+      "notes": "Sustained at 40.5K for fourth consecutive week. PDRN solidifying as retinol replacement. $30-60 price point."
     },
     {
       "name": "PDRN Toner (Anti-Aging Skincare)",
@@ -44,18 +22,7 @@
       "affiliate_potential": "medium",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Volume increased 2.4K\u21922.9K week-over-week. Riding the PDRN wave. $15-30 price point stacks with PDRN cream."
-    },
-    {
-      "name": "Cat Toothpaste (Pet Dental Care)",
-      "platform": "TikTok",
-      "category": "pets",
-      "viral_hook": "Specialised cat toothpaste in poultry/malt flavors \u2014 pet owners show their cats tolerating (or loving) toothbrushing. 'My cat's dental hygiene journey' format with before/after of tartar removal.",
-      "engagement_estimate": "14.8K search volume, +900% growth on ExplodingTopics",
-      "affiliate_potential": "medium",
-      "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Steady at 14.8K. Pet niche is evergreen. Recurring monthly purchase. Low competition, broad volume."
+      "notes": "Volume stable at 2.9K vs last week. Riding the PDRN wave. $15-30 price point stacks with PDRN cream."
     },
     {
       "name": "Plant Chocolate Protein Powder",
@@ -69,6 +36,39 @@
       "notes": "480 volume but +2400% growth impressive. Late May through summer = peak fitness season. Subscription model potential."
     },
     {
+      "name": "Podcast Microphone (USB Condenser)",
+      "platform": "YouTube, TikTok",
+      "category": "gadgets",
+      "viral_hook": "Affordable USB podcast microphone for content creators \u2014 setup tutorials and 'upgrade your audio quality' videos. Creator economy driving demand. Summer podcast launch season.",
+      "engagement_estimate": "60.5K search volume, +1150% growth on ExplodingTopics",
+      "affiliate_potential": "high",
+      "commission_type": "physical",
+      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
+      "notes": "Highest volume at 60.5K \u2014 sustained weeks. Summer podcast launch season. $50-150 price point."
+    },
+    {
+      "name": "Cat Toothpaste (Pet Dental Care)",
+      "platform": "TikTok",
+      "category": "pets",
+      "viral_hook": "Specialised cat toothpaste in poultry/malt flavors \u2014 pet owners show their cats tolerating (or loving) toothbrushing. 'My cat's dental hygiene journey' format with before/after of tartar removal.",
+      "engagement_estimate": "14.8K search volume, +900% growth on ExplodingTopics",
+      "affiliate_potential": "medium",
+      "commission_type": "physical",
+      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
+      "notes": "Steady at 14.8K. Pet niche evergreen. Recurring monthly purchase. Low competition, broad volume."
+    },
+    {
+      "name": "GLP-1 Supplement (Natural Weight Loss)",
+      "platform": "TikTok, Instagram, YouTube",
+      "category": "fitness",
+      "viral_hook": "Natural alternative to Ozempic/Wegovy \u2014 GLP-1 supplements for appetite control and glucose metabolism. 'Natural Ozempic' trend driving massive search volume. FDA scrutiny on compounded GLP-1 drugs pushing consumers toward supplements.",
+      "engagement_estimate": "49.5K search volume, +925% growth on ExplodingTopics",
+      "affiliate_potential": "high",
+      "commission_type": "physical",
+      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
+      "notes": "Holding at 49.5K \u2014 stable high-volume trend mapped from raw ExplodingTopics 'GLP 1 Supplement' card. Summer weight loss season arriving. $40-80/month recurring purchase."
+    },
+    {
       "name": "Mini LED Projector",
       "platform": "TikTok, Instagram",
       "category": "gadgets",
@@ -77,7 +77,7 @@
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / Spocket / CJ Dropshipping",
-      "notes": "Late May = peak outdoor movie season. $50-150 price point = good commissions. Still trending strongly."
+      "notes": "Late May = peak outdoor movie season. $50-150 price point = good commissions."
     },
     {
       "name": "Neck Fan (Portable Wearable)",
@@ -88,7 +88,7 @@
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Seasonal peak \u2014 late May is perfect timing. $15-40 price point but high volume."
+      "notes": "Seasonal peak \u2014 late May timing perfect for summer content. $15-40 price point high volume."
     },
     {
       "name": "Posture Corrector Device",
@@ -124,7 +124,7 @@
       "notes": "Year-round evergreen. Low price ($10-30) but broad appeal and high volume. Best for traffic-driving."
     }
   ],
-  "source_summary": "Scanned via CloakBrowser (stealth Chromium): ExplodingTopics.com (6 trending products detected: PDRN Cream +5900%, PDRN Toner +5600%, Plant Chocolate Protein +2400%, Podcast Microphone +1150%, GLP-1 Supplement +925%, Cat Toothpaste +900%). Amazon Movers & Shakers blocked by JS rendering layer. Google Trends Shopping timed out through Smartproxy. Cross-referenced ExplodingTopics data with 5 established TikTok/Instagram viral evergreen products for late May 2026. Notable: PDRN Toner volume increased 2.4K\u21922.9K week-over-week. All top ExplodingTopics trends stable with no major new breakout signals.",
+  "source_summary": "Scanned via CloakBrowser (stealth Chromium): ExplodingTopics.com (6 trending products detected: PDRN Cream +5900%, PDRN Toner +5600%, Plant Chocolate Protein +2400%, Podcast Microphone +1150%, GLP-1 Supplement +925%, Cat Toothpaste +900%). Amazon Movers & Shakers blocked by JS rendering layer. Google Trends Shopping times out through Smartproxy. Cross-referenced ExplodingTopics data with 5 established TikTok/Instagram viral evergreen products for late May 2026. All top ExplodingTopics trends stable \u2014 no major new breakout signals. GLP-1 Supplement (GLP 1 Supplement card) newly mapped to fitness category with enriched notes. Summer seasonal products (neck fan, mini projector) at peak.",
   "top_categories": {
     "fitness": 3,
     "gadgets": 3,
