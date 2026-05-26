@@ -1,5 +1,32 @@
 {
-  "date": "2026-05-22",
-  "scan_timestamp": "2026-05-22T07:01:40Z",
-  "summary": "TrendVault daily scan completed for 22 May 2026 (2026-05-22T07:01:40Z).\nTotal products tracked: 11\n\nTop 3 by engagement volume:\n1. \ud83c\udf99 Podcast Microphone (USB Condenser) \u2014 60.5K search volume, +1150%\n2. \ud83d\udce6 GLP-1 Supplement (Natural Weight Loss) \u2014 49.5K search volume, +925%\n3. \ud83d\udc84 PDRN Cream (Skincare Regenerative) \u2014 40.5K search volume, +5900%\n\nCategory breakdown: {\"fitness\": 3, \"gadgets\": 3, \"beauty\": 2, \"pets\": 2, \"home\": 1}\n\n6 fresh trends from ExplodingTopics + 5 evergreen products.\nAll trends stable week-over-week. GLP-1 supplement now properly categorized as fitness.\nReady for 09:00 content generation cron."
+  "date": "2026-05-25",
+  "scan_timestamp": "2026-05-25T07:01:47Z",
+  "total_products": 11,
+  "fresh_from_explodingtopics": 6,
+  "evergreen_carryover": 5,
+  "top_categories": {
+    "fitness": 3,
+    "gadgets": 3,
+    "beauty": 2,
+    "pets": 2,
+    "home": 1
+  },
+  "summary_text": "Daily trend scan completed 2026-05-25. 11 products compiled (6 fresh from ExplodingTopics + 5 established evergreens). Biggest movers: PDRN Cream (+5900%, 40.5K vol), Podcast Microphone (+1100%, 60.5K vol), GLP-1 Supplement (+925%, 49.5K vol). Notable WoW change: Plant Chocolate Protein growth slowed from +2400% to +1100%, Cat Toothpaste from +900% to +413%. Summer seasonal at peak. Content gen ready for 09:00 run.",
+  "top_3_trends": [
+    {
+      "name": "Podcast Microphone (USB Condenser)",
+      "engagement": "60.5K search volume, +1100% growth",
+      "category": "gadgets"
+    },
+    {
+      "name": "GLP-1 Supplement (Natural Weight Loss)",
+      "engagement": "49.5K search volume, +925% growth",
+      "category": "fitness"
+    },
+    {
+      "name": "PDRN Cream (Skincare Regenerative)",
+      "engagement": "40.5K search volume, +5900% growth",
+      "category": "beauty"
+    }
+  ]
 }

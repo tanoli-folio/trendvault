@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-22",
-  "scan_timestamp": "2026-05-22T07:01:40Z",
+  "date": "2026-05-25",
+  "scan_timestamp": "2026-05-25T07:01:47Z",
   "trends": [
     {
       "name": "PDRN Cream (Skincare Regenerative)",
@@ -11,51 +11,51 @@
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Sustained at 40.5K for fourth consecutive week. PDRN solidifying as retinol replacement. $30-60 price point."
+      "notes": "Sustained at 40.5K for fifth consecutive week. PDRN solidifying as retinol replacement. $30-60 price point."
     },
     {
       "name": "PDRN Toner (Anti-Aging Skincare)",
       "platform": "TikTok",
       "category": "beauty",
       "viral_hook": "PDRN-infused toner for anti-aging \u2014 smooths fine lines, softens dryness, revives tired skin. Companion product to PDRN cream. Layered skincare routine videos drive sales.",
-      "engagement_estimate": "2.9K search volume, +5600% growth on ExplodingTopics",
+      "engagement_estimate": "2.4K search volume, +5600% growth on ExplodingTopics",
       "affiliate_potential": "medium",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Volume stable at 2.9K vs last week. Riding the PDRN wave. $15-30 price point stacks with PDRN cream."
-    },
-    {
-      "name": "Plant Chocolate Protein Powder",
-      "platform": "Instagram, TikTok",
-      "category": "fitness",
-      "viral_hook": "Vegan chocolate protein powder \u2014 smoothie and protein shake recipe content. 'Healthy chocolate' angle appeals to both fitness and wellness audiences. Plant-based + chocolate = guilt-free indulgence.",
-      "engagement_estimate": "480 search volume, +2400% growth on ExplodingTopics",
-      "affiliate_potential": "medium",
-      "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates / Spocket",
-      "notes": "480 volume but +2400% growth impressive. Late May through summer = peak fitness season. Subscription model potential."
+      "notes": "Volume steady at 2.4K. Riding the PDRN wave. $15-30 price point stacks with PDRN cream."
     },
     {
       "name": "Podcast Microphone (USB Condenser)",
       "platform": "YouTube, TikTok",
       "category": "gadgets",
       "viral_hook": "Affordable USB podcast microphone for content creators \u2014 setup tutorials and 'upgrade your audio quality' videos. Creator economy driving demand. Summer podcast launch season.",
-      "engagement_estimate": "60.5K search volume, +1150% growth on ExplodingTopics",
+      "engagement_estimate": "60.5K search volume, +1100% growth on ExplodingTopics",
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Highest volume at 60.5K \u2014 sustained weeks. Summer podcast launch season. $50-150 price point."
+      "notes": "Highest volume at 60.5K \u2014 sustained for weeks. Summer podcast launch season. $50-150 price point."
+    },
+    {
+      "name": "Plant Chocolate Protein Powder",
+      "platform": "Instagram, TikTok",
+      "category": "fitness",
+      "viral_hook": "Vegan chocolate protein powder \u2014 smoothie and protein shake recipe content. 'Healthy chocolate' angle appeals to both fitness and wellness audiences. Plant-based + chocolate = guilt-free indulgence.",
+      "engagement_estimate": "480 search volume, +1100% growth on ExplodingTopics",
+      "affiliate_potential": "medium",
+      "commission_type": "physical",
+      "suggested_affiliate_program": "Amazon Associates / Spocket",
+      "notes": "Growth decelerated from +2400% to +1100% WoW \u2014 may be levelling off. Still early summer = peak fitness season. Subscription model potential."
     },
     {
       "name": "Cat Toothpaste (Pet Dental Care)",
       "platform": "TikTok",
       "category": "pets",
       "viral_hook": "Specialised cat toothpaste in poultry/malt flavors \u2014 pet owners show their cats tolerating (or loving) toothbrushing. 'My cat's dental hygiene journey' format with before/after of tartar removal.",
-      "engagement_estimate": "14.8K search volume, +900% growth on ExplodingTopics",
+      "engagement_estimate": "14.8K search volume, +413% growth on ExplodingTopics",
       "affiliate_potential": "medium",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Steady at 14.8K. Pet niche evergreen. Recurring monthly purchase. Low competition, broad volume."
+      "notes": "Growth decelerated from +900% to +413% WoW \u2014 normalisation after surge. Still strong volume at 14.8K. Low competition, recurring monthly purchase."
     },
     {
       "name": "GLP-1 Supplement (Natural Weight Loss)",
@@ -66,18 +66,18 @@
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Holding at 49.5K \u2014 stable high-volume trend mapped from raw ExplodingTopics 'GLP 1 Supplement' card. Summer weight loss season arriving. $40-80/month recurring purchase."
+      "notes": "Holding at 49.5K \u2014 stable high-volume trend. Summer weight loss season arriving. $40-80/month recurring purchase."
     },
     {
       "name": "Mini LED Projector",
       "platform": "TikTok, Instagram",
       "category": "gadgets",
-      "viral_hook": "Turn your bedroom wall into a movie theatre \u2014 compact, affordable, perfect for small spaces. Summer outdoor movie season at peak. Room transformation and setup videos drive sales.",
+      "viral_hook": "Turn your bedroom wall into a movie theatre \u2014 compact, affordable, perfect for small spaces. Summer outdoor movie season now at peak. Room transformation and setup videos drive sales.",
       "engagement_estimate": "2-2.5M+ views across platforms, seasonal peak",
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / Spocket / CJ Dropshipping",
-      "notes": "Late May = peak outdoor movie season. $50-150 price point = good commissions."
+      "notes": "Late May = peak outdoor movie season. $50-150 price point = good commissions"
     },
     {
       "name": "Neck Fan (Portable Wearable)",
@@ -110,7 +110,7 @@
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Spring shedding through June. Reusable design appeals to eco-conscious buyers. $15-25."
+      "notes": "Spring shedding season running through June. Reusable design appeals to eco-conscious buyers. $15-25."
     },
     {
       "name": "LED Strip Lights (Smart RGBIC)",
@@ -124,7 +124,7 @@
       "notes": "Year-round evergreen. Low price ($10-30) but broad appeal and high volume. Best for traffic-driving."
     }
   ],
-  "source_summary": "Scanned via CloakBrowser (stealth Chromium): ExplodingTopics.com (6 trending products detected: PDRN Cream +5900%, PDRN Toner +5600%, Plant Chocolate Protein +2400%, Podcast Microphone +1150%, GLP-1 Supplement +925%, Cat Toothpaste +900%). Amazon Movers & Shakers blocked by JS rendering layer. Google Trends Shopping times out through Smartproxy. Cross-referenced ExplodingTopics data with 5 established TikTok/Instagram viral evergreen products for late May 2026. All top ExplodingTopics trends stable \u2014 no major new breakout signals. GLP-1 Supplement (GLP 1 Supplement card) newly mapped to fitness category with enriched notes. Summer seasonal products (neck fan, mini projector) at peak.",
+  "source_summary": "Scanned via CloakBrowser (stealth Chromium) 2026-05-25: ExplodingTopics.com delivered 6 trending products (PDRN Cream +5900%, PDRN Toner +5600%, Podcast Microphone +1100%, Plant Chocolate Protein +1100%, GLP-1 Supplement +925%, Cat Toothpaste +413%). Growth rates have normalised slightly WoW \u2014 Plant Chocolate Protein dropped from +2400% to +1100%, Cat Toothpaste from +900% to +413%. All core trends stable. Combined with 5 established evergreen products (Mini LED Projector, Neck Fan, Posture Corrector, Pet Hair Remover, LED Strip Lights). Summer seasonal products (neck fan, mini projector) at peak momentum.",
   "top_categories": {
     "fitness": 3,
     "gadgets": 3,
