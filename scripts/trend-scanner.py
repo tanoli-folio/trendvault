@@ -147,6 +147,12 @@ def interpret_trends(exploding_results):
         "blender": ("Portable Blender (USB-C Rechargeable)", "gadgets", "USB-C rechargeable portable blender — smoothie on-the-go. Summer health/fitness season. 'What I eat in a day' content format.", "15.3K search volume, +450% growth on ExplodingTopics", "high"),
         "yoga": ("Yoga Resistance Bands Set", "fitness", "Stackable resistance bands for home workouts. 'Full body workout with just bands' content. Summer body prep season.", "9.7K search volume, +280% growth on ExplodingTopics", "medium"),
         "phone stand": ("Phone Stand (Adjustable Ring Light)", "gadgets", "Adjustable phone stand with built-in ring light. Video call and content creation essential. WFH and creator economy.", "11.2K search volume, +310% growth", "high"),
+        # Peptide / supplement trends — GLP-1 family
+        "peptide": ("Weight Loss Peptides (GLP-1 Natural Alternative)", "fitness", "Natural alternative to Ozempic/Wegovy — GLP-1 mimicking peptides for appetite control and glucose metabolism. 'Natural Ozempic' trend driving massive search volume.", "33.1K search volume, +900% growth on ExplodingTopics", "high"),
+        "epitalon": ("Epitalon (Anti-Aging Peptide)", "fitness", "Synthetic peptide for telomerase production and anti-aging — longevity biohacking trend. 'Biological age reversal' claims driving interest in the biohacker community.", "27.1K search volume, +900% growth on ExplodingTopics", "medium"),
+        # Beauty / skincare new entrants
+        "milky": ("Milky Moisturizer (Snow Mushroom Skincare)", "beauty", "Korean skincare meets Snow Mushroom, Hyaluronic Acid, and Shea Butter — 'glass skin' hydration trend. Milky texture application videos driving engagement.", "2.9K search volume, +925% growth on ExplodingTopics", "high"),
+        "moisturiz": ("Milky Moisturizer (Snow Mushroom Skincare)", "beauty", "Korean skincare meets Snow Mushroom, Hyaluronic Acid, and Shea Butter — 'glass skin' hydration trend.", "2.9K search volume, +925% growth", "high"),
     }
 
     # Check ExplodingTopics raw results against known patterns
@@ -199,7 +205,10 @@ def interpret_trends(exploding_results):
                 # Classify by keyword heuristics
                 cat = "gadgets"
                 for kw, c in [("beauty", "beauty"), ("skin", "beauty"), ("makeup", "beauty"),
+                               ("moisturiz", "beauty"), ("cream", "beauty"), ("toner", "beauty"),
+                               ("peptide", "fitness"), ("supplement", "fitness"), ("protein", "fitness"),
                                ("fitness", "fitness"), ("gym", "fitness"), ("workout", "fitness"),
+                               ("weight loss", "fitness"), ("glp-1", "fitness"),
                                ("pet", "pets"), ("dog", "pets"), ("cat", "pets"),
                                ("home", "home"), ("kitchen", "home"), ("cleaning", "home"),
                                ("fashion", "fashion"), ("bag", "fashion"), ("shoe", "fashion")]:

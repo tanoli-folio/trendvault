@@ -1,31 +1,31 @@
 {
-  "date": "2026-05-25",
-  "scan_timestamp": "2026-05-25T07:01:47Z",
-  "total_products": 11,
-  "fresh_from_explodingtopics": 6,
+  "date": "2026-05-27",
+  "scan_timestamp": "2026-05-27T07:00:52Z",
+  "total_products": 8,
+  "fresh_from_explodingtopics": 3,
   "evergreen_carryover": 5,
   "top_categories": {
     "fitness": 3,
-    "gadgets": 3,
-    "beauty": 2,
-    "pets": 2,
+    "gadgets": 2,
+    "beauty": 1,
+    "pets": 1,
     "home": 1
   },
-  "summary_text": "Daily trend scan completed 2026-05-25. 11 products compiled (6 fresh from ExplodingTopics + 5 established evergreens). Biggest movers: PDRN Cream (+5900%, 40.5K vol), Podcast Microphone (+1100%, 60.5K vol), GLP-1 Supplement (+925%, 49.5K vol). Notable WoW change: Plant Chocolate Protein growth slowed from +2400% to +1100%, Cat Toothpaste from +900% to +413%. Summer seasonal at peak. Content gen ready for 09:00 run.",
+  "summary_text": "Daily trend scan completed 2026-05-27. 8 products compiled (3 fresh from ExplodingTopics + 5 established evergreens). Biggest movers: Weight Loss Peptides (+900%, 33.1K vol), Epitalon (+900%, 27.1K vol), Milky Moisturizer (+925%, 2.9K vol). Notable shift this week: PDRN Cream and Cat Toothpaste dropped off ExplodingTopics top list — replaced by peptide/fitness category (Weight Loss Peptides + Epitalon) and a new beauty entrant (Milky Moisturizer). The GLP-1 weight loss trend is expanding into the broader peptide biohacking space. Summer seasonal products (neck fan, mini projector) at peak. Content gen ready for 09:00 run.",
   "top_3_trends": [
     {
-      "name": "Podcast Microphone (USB Condenser)",
-      "engagement": "60.5K search volume, +1100% growth",
-      "category": "gadgets"
-    },
-    {
-      "name": "GLP-1 Supplement (Natural Weight Loss)",
-      "engagement": "49.5K search volume, +925% growth",
+      "name": "Weight Loss Peptides (GLP-1 Natural Alternative)",
+      "engagement": "33.1K search volume, +900% growth",
       "category": "fitness"
     },
     {
-      "name": "PDRN Cream (Skincare Regenerative)",
-      "engagement": "40.5K search volume, +5900% growth",
+      "name": "Epitalon (Anti-Aging Peptide)",
+      "engagement": "27.1K search volume, +900% growth",
+      "category": "fitness"
+    },
+    {
+      "name": "Milky Moisturizer (Snow Mushroom Skincare)",
+      "engagement": "2.9K search volume, +925% growth",
       "category": "beauty"
     }
   ]
