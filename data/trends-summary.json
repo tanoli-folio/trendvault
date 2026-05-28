@@ -1,32 +1,30 @@
 {
-  "date": "2026-05-27",
-  "scan_timestamp": "2026-05-27T07:00:52Z",
+  "date": "2026-05-28",
+  "scan_timestamp": "2026-05-28T07:01:23Z",
   "total_products": 8,
-  "fresh_from_explodingtopics": 3,
-  "evergreen_carryover": 5,
-  "top_categories": {
+  "categories": {
     "fitness": 3,
     "gadgets": 2,
     "beauty": 1,
     "pets": 1,
     "home": 1
   },
-  "summary_text": "Daily trend scan completed 2026-05-27. 8 products compiled (3 fresh from ExplodingTopics + 5 established evergreens). Biggest movers: Weight Loss Peptides (+900%, 33.1K vol), Epitalon (+900%, 27.1K vol), Milky Moisturizer (+925%, 2.9K vol). Notable shift this week: PDRN Cream and Cat Toothpaste dropped off ExplodingTopics top list — replaced by peptide/fitness category (Weight Loss Peptides + Epitalon) and a new beauty entrant (Milky Moisturizer). The GLP-1 weight loss trend is expanding into the broader peptide biohacking space. Summer seasonal products (neck fan, mini projector) at peak. Content gen ready for 09:00 run.",
   "top_3_trends": [
     {
+      "name": "Milky Moisturizer (Snow Mushroom Skincare)",
+      "engagement": "2.9K search volume, +925% growth on ExplodingTopics",
+      "category": "beauty"
+    },
+    {
       "name": "Weight Loss Peptides (GLP-1 Natural Alternative)",
-      "engagement": "33.1K search volume, +900% growth",
+      "engagement": "33.1K search volume, +900% growth on ExplodingTopics",
       "category": "fitness"
     },
     {
       "name": "Epitalon (Anti-Aging Peptide)",
-      "engagement": "27.1K search volume, +900% growth",
+      "engagement": "27.1K search volume, +900% growth on ExplodingTopics",
       "category": "fitness"
-    },
-    {
-      "name": "Milky Moisturizer (Snow Mushroom Skincare)",
-      "engagement": "2.9K search volume, +925% growth",
-      "category": "beauty"
     }
-  ]
+  ],
+  "summary": "TrendVault scan 2026-05-28: 8 products tracked. Weight Loss Peptides (33.1K, +900%) leads fitness. Epitalon (27.1K, +900%) is the second peptide entry. Milky Moisturizer (2.9K, +925%) is the active beauty signal. 5 evergreens included. Summer products at seasonal peak."
 }

@@ -1,23 +1,34 @@
 {
-  "date": "2026-05-27",
-  "scan_timestamp": "2026-05-27T07:00:52Z",
+  "date": "2026-05-28",
+  "scan_timestamp": "2026-05-28T07:01:23Z",
   "trends": [
+    {
+      "name": "Milky Moisturizer (Snow Mushroom Skincare)",
+      "platform": "TikTok, Instagram",
+      "category": "beauty",
+      "viral_hook": "Korean skincare meets Snow Mushroom, Hyaluronic Acid, and Shea Butter \u2014 'glass skin' hydration trend. Milky texture application videos and before/after of dry-to-dewy transformation driving engagement.",
+      "engagement_estimate": "2.9K search volume, +925% growth on ExplodingTopics",
+      "affiliate_potential": "high",
+      "commission_type": "physical",
+      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
+      "notes": "Available at Target, Sephora, Walmart \u2014 strong retail presence. Snow Mushroom ingredient is the hook. $15-35 price point. Fix: was auto-categorised as 'gadgets' \u2014 corrected to 'beauty'."
+    },
     {
       "name": "Weight Loss Peptides (GLP-1 Natural Alternative)",
       "platform": "TikTok, Instagram, YouTube",
       "category": "fitness",
-      "viral_hook": "Natural alternative to Ozempic/Wegovy — GLP-1 mimicking peptides for appetite control and glucose metabolism. 'Natural Ozempic' trend continues to drive massive search volume. Peer-reviewed studies and anecdotal before/after content driving credibility.",
+      "viral_hook": "Natural alternative to Ozempic/Wegovy \u2014 GLP-1 mimicking peptides for appetite control and glucose metabolism. 'Natural Ozempic' trend continues to drive massive search volume. Peer-reviewed studies and anecdotal before/after content driving credibility.",
       "engagement_estimate": "33.1K search volume, +900% growth on ExplodingTopics",
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "33.1K volume at +900% — strong growth maintaining from last week's GLP-1 Supplement at 49.5K. The peptide sub-niche is expanding. $30-80/month recurring purchase potential. Fix: was auto-categorised as 'gadgets' by scanner heuristics — corrected to 'fitness'."
+      "notes": "33.1K volume at +900% \u2014 strong growth maintaining. The peptide sub-niche is expanding. $30-80/month recurring purchase potential."
     },
     {
       "name": "Epitalon (Anti-Aging Peptide)",
       "platform": "TikTok, Instagram",
       "category": "fitness",
-      "viral_hook": "Synthetic peptide for telomerase production and anti-aging — longevity biohacking trend. Scientific curiosity + 'biological age reversal' claims driving interest in the biohacker community.",
+      "viral_hook": "Synthetic peptide for telomerase production and anti-aging \u2014 longevity biohacking trend. Scientific curiosity + 'biological age reversal' claims driving interest in the biohacker community.",
       "engagement_estimate": "27.1K search volume, +900% growth on ExplodingTopics",
       "affiliate_potential": "medium",
       "commission_type": "physical",
@@ -25,21 +36,10 @@
       "notes": "Niche supplement play at 27.1K volume. More research/science-oriented than GLP-1 peptides. May be harder to affiliate due to supplement regulation constraints. $40-100/cycle."
     },
     {
-      "name": "Milky Moisturizer (Snow Mushroom Skincare)",
-      "platform": "TikTok, Instagram",
-      "category": "beauty",
-      "viral_hook": "Korean skincare meets Snow Mushroom, Hyaluronic Acid, and Shea Butter — 'glass skin' hydration trend. Milky texture application videos and before/after of dry-to-dewy transformation driving engagement.",
-      "engagement_estimate": "2.9K search volume, +925% growth on ExplodingTopics",
-      "affiliate_potential": "high",
-      "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Available at Target, Sephora, Walmart — strong retail presence. Snow Mushroom ingredient is the hook. $15-35 price point. Fix: was auto-categorised as 'gadgets' — corrected to 'beauty'."
-    },
-    {
       "name": "Mini LED Projector",
       "platform": "TikTok, Instagram",
       "category": "gadgets",
-      "viral_hook": "Turn your bedroom wall into a movie theatre — compact, affordable, perfect for small spaces. Summer outdoor movie season now at peak. Room transformation and setup videos drive sales.",
+      "viral_hook": "Turn your bedroom wall into a movie theatre \u2014 compact, affordable, perfect for small spaces. Summer outdoor movie season now at peak. Room transformation and setup videos drive sales.",
       "engagement_estimate": "2-2.5M+ views across platforms, seasonal peak",
       "affiliate_potential": "high",
       "commission_type": "physical",
@@ -50,23 +50,23 @@
       "name": "Neck Fan (Portable Wearable)",
       "platform": "Instagram, TikTok",
       "category": "gadgets",
-      "viral_hook": "Hands-free personal fan — summer essential for commuting, outdoor work, and events. Dual-blade design with neckband form factor. 'What's in my bag' and 'summer essentials' content driving discovery.",
+      "viral_hook": "Hands-free personal fan \u2014 summer essential for commuting, outdoor work, and events. Dual-blade design with neckband form factor. 'What's in my bag' and 'summer essentials' content driving discovery.",
       "engagement_estimate": "3M+ views on top Instagram Reels",
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Seasonal peak — late May timing perfect for summer content. $15-40 price point high volume."
+      "notes": "Seasonal peak \u2014 late May timing perfect for summer content. $15-40 price point high volume."
     },
     {
       "name": "Posture Corrector Device",
       "platform": "TikTok",
       "category": "fitness",
-      "viral_hook": "Before/after transformations showing posture improvement for remote workers. 'Worn for 30 days — what changed' format continues to perform. WFH permanence driving sustained demand.",
+      "viral_hook": "Before/after transformations showing posture improvement for remote workers. 'Worn for 30 days \u2014 what changed' format continues to perform. WFH permanence driving sustained demand.",
       "engagement_estimate": "3.1M+ views, strong comment engagement across TikTok",
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Evergreen performer. Broad demographic — office workers, gamers, elderly."
+      "notes": "Evergreen performer. Broad demographic \u2014 office workers, gamers, elderly."
     },
     {
       "name": "Pet Hair Remover (ChomChom-style)",
@@ -83,7 +83,7 @@
       "name": "LED Strip Lights (Smart RGBIC)",
       "platform": "TikTok",
       "category": "home",
-      "viral_hook": "Room transformation videos — gaming setups, bedroom aesthetics, music-synced lighting displays. 'TikTok made me buy it' category leader. Consistent viral format year-round.",
+      "viral_hook": "Room transformation videos \u2014 gaming setups, bedroom aesthetics, music-synced lighting displays. 'TikTok made me buy it' category leader. Consistent viral format year-round.",
       "engagement_estimate": "1.5M+ views, consistent high volume across TikTok",
       "affiliate_potential": "high",
       "commission_type": "physical",
@@ -91,7 +91,7 @@
       "notes": "Year-round evergreen. Low price ($10-30) but broad appeal and high volume."
     }
   ],
-  "source_summary": "Scanned via CloakBrowser (stealth Chromium) 2026-05-27: ExplodingTopics.com delivered 6 trend signals. 3 were shopable products (Weight Loss Peptides +900%/33.1K, Epitalon +900%/27.1K, Milky Moisturizer +925%/2.9K). Dropped: Preply (education SaaS — not Amazon affiliatable), Lovescape (AI adult content — no affiliate path), Therapeutic Plasma Exchange (medical procedure). Combined with 5 established evergreen products (Mini LED Projector, Neck Fan, Posture Corrector, Pet Hair Remover, LED Strip Lights). Notable shift: GLP-1 interest is expanding into the broader peptide space (Weight Loss Peptides + Epitalon both at +900%). Milky Moisturizer is a new beauty entrant replacing PDRN Cream which dropped off this week's ExplodingTopics top list. Summer seasonal products (neck fan, mini projector) at peak momentum.",
+  "source_summary": "Scanned via CloakBrowser (stealth Chromium) 2026-05-28: ExplodingTopics.com delivered 4 trend signals. 3 were shoppable products (Weight Loss Peptides +900%/33.1K, Epitalon +900%/27.1K, Milky Moisturizer +925%/2.9K). Dropped: Preply (education SaaS), Lovescape (AI adult content), Therapeutic Plasma Exchange (medical procedure). Combined with 5 established evergreen products (Mini LED Projector, Neck Fan, Posture Corrector, Pet Hair Remover, LED Strip Lights). Notable: Peptide category remains strong with 2 entries (Weight Loss Peptides + Epitalon both at +900%). Milky Moisturizer is the lone beauty entrant \u2014 Snow Mushroom skincare trend maintaining. Summer seasonal products (neck fan, mini projector) at peak momentum. No new breakout products detected in this scan cycle.",
   "top_categories": {
     "fitness": 3,
     "gadgets": 2,
@@ -102,6 +102,7 @@
   "recommended_affiliate_programs": [
     "Amazon Associates",
     "Amazon Associates / CJ Dropshipping",
+    "Amazon Associates / Spocket",
     "Amazon Associates / Spocket / CJ Dropshipping"
   ]
 }
