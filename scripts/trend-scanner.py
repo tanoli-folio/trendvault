@@ -211,7 +211,7 @@ def interpret_trends(exploding_results):
                                ("weight loss", "fitness"), ("glp-1", "fitness"),
                                ("pet", "pets"), ("dog", "pets"), ("cat", "pets"),
                                ("home", "home"), ("kitchen", "home"), ("cleaning", "home"),
-                               ("fashion", "fashion"), ("bag", "fashion"), ("shoe", "fashion")]:
+                               ("fashion", "fashion"), ("bag", "fashion"), ("shoe", "fashion"), ("jeans", "fashion")]:
                     if kw in raw_lower:
                         cat = c
                         break
