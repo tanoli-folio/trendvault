@@ -1,50 +1,39 @@
 {
-  "date": "2026-05-29",
-  "scan_timestamp": "2026-05-29T07:00:42Z",
+  "date": "2026-06-01",
+  "scan_timestamp": "2026-06-01T07:04:05Z",
   "trends": [
-    {
-      "name": "Stovepipe Jeans",
-      "platform": "TikTok, Instagram",
-      "category": "fashion",
-      "viral_hook": "Straight-cut denim from hip to hem making a major comeback \u2014 Y2K fashion revival drives TikTok styling videos with thrift hauls, outfit-of-the-day formats, and celebrity-inspired looks.",
-      "engagement_estimate": "40.5K search volume, +800% growth on ExplodingTopics",
-      "affiliate_potential": "high",
-      "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Fashion trend \u2014 was miscategorised as 'gadgets' by scanner heuristics, corrected to 'fashion'. 40.5K volume at +800% makes this the highest-volume fresh trend. Multiple retailers, good affiliate angle with styling guides."
-    },
     {
       "name": "Milky Moisturizer (Snow Mushroom Skincare)",
       "platform": "TikTok, Instagram",
       "category": "beauty",
-      "viral_hook": "Korean skincare meets Snow Mushroom, Hyaluronic Acid, and Shea Butter \u2014 'glass skin' hydration trend. Milky texture application videos and transformation content driving engagement across beauty community.",
+      "viral_hook": "Korean skincare meets Snow Mushroom, Hyaluronic Acid, and Shea Butter \u2014 'glass skin' hydration trend. Milky texture application videos driving engagement.",
       "engagement_estimate": "2.9K search volume, +925% growth on ExplodingTopics",
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Available at Target, Sephora, Walmart \u2014 strong retail presence. Snow Mushroom ingredient is the hook. $15-35 price point. Scanner correctly categorised as 'beauty' (keyword heuristic fix working)."
+      "notes": "Detected via ExplodingTopics (+925%). Beauty category."
     },
     {
       "name": "Weight Loss Peptides (GLP-1 Natural Alternative)",
-      "platform": "TikTok, Instagram, YouTube",
+      "platform": "TikTok, Instagram",
       "category": "fitness",
-      "viral_hook": "Natural alternative to Ozempic/Wegovy \u2014 GLP-1 mimicking peptides for appetite control and glucose metabolism. 'Natural Ozempic' trend continues to drive massive search volume. Before/after transformation content building credibility.",
+      "viral_hook": "Natural alternative to Ozempic/Wegovy \u2014 GLP-1 mimicking peptides for appetite control and glucose metabolism. 'Natural Ozempic' trend driving massive search volume.",
       "engagement_estimate": "33.1K search volume, +900% growth on ExplodingTopics",
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "33.1K volume at +900% \u2014 maintaining strong growth week-over-week. The peptide sub-niche expanding. $30-80/month recurring purchase potential."
+      "notes": "Detected via ExplodingTopics (+900%). Fitness category."
     },
     {
       "name": "Epitalon (Anti-Aging Peptide)",
       "platform": "TikTok, Instagram",
       "category": "fitness",
-      "viral_hook": "Synthetic peptide for telomerase production and anti-aging \u2014 longevity biohacking trend. Scientific curiosity + 'biological age reversal' claims driving interest in the biohacker and longevity communities.",
+      "viral_hook": "Synthetic peptide for telomerase production and anti-aging \u2014 longevity biohacking trend. 'Biological age reversal' claims driving interest in the biohacker community.",
       "engagement_estimate": "27.1K search volume, +900% growth on ExplodingTopics",
       "affiliate_potential": "medium",
       "commission_type": "physical",
-      "suggested_affiliate_program": "Amazon Associates",
-      "notes": "Niche supplement play at 27.1K volume. More research/science-oriented than GLP-1 peptides. $40-100/cycle. May be harder to affiliate due to supplement regulation."
+      "suggested_affiliate_program": "Amazon Associates / Spocket",
+      "notes": "Detected via ExplodingTopics (+900%). Fitness category."
     },
     {
       "name": "Mini LED Projector",
@@ -55,7 +44,7 @@
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / Spocket / CJ Dropshipping",
-      "notes": "Late May through June is peak outdoor movie season. $50-150 price point = good commissions."
+      "notes": "Late May is peak outdoor movie season. $50-150 price point = good commissions."
     },
     {
       "name": "Neck Fan (Portable Wearable)",
@@ -66,7 +55,7 @@
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Seasonal peak \u2014 late May timing perfect for summer content. $15-40 price point, high volume."
+      "notes": "Seasonal peak \u2014 late May timing perfect for summer content. $15-40 price point high volume."
     },
     {
       "name": "Posture Corrector Device",
@@ -83,12 +72,12 @@
       "name": "Pet Hair Remover (ChomChom-style)",
       "platform": "TikTok, Instagram",
       "category": "pets",
-      "viral_hook": "Satisfying before/after of pet hair removal from furniture. 'Look how much hair this removed' reveal format drives insane share rates. Spring shedding season at peak.",
+      "viral_hook": "Satisfying before/after of pet hair removal from furniture. 'Look how much hair this removed' reveal format drives insane share rates. Spring shedding season = peak demand.",
       "engagement_estimate": "1M+ views, high share rate across pet communities",
       "affiliate_potential": "high",
       "commission_type": "physical",
       "suggested_affiliate_program": "Amazon Associates / CJ Dropshipping",
-      "notes": "Spring shedding season running through June. Reusable design. Broad appeal across pet owners."
+      "notes": "Spring shedding season running through June. Reusable design."
     },
     {
       "name": "LED Strip Lights (Smart RGBIC)",
@@ -102,18 +91,17 @@
       "notes": "Year-round evergreen. Low price ($10-30) but broad appeal and high volume."
     }
   ],
-  "source_summary": "Scanned via CloakBrowser (stealth Chromium): ExplodingTopics.com (6 potential trend signals detected, 5 matched/categorized). Dropped: Therapeutic Plasma Exchange (medical procedure \u2014 no affiliate potential). Added Lovescape (AI adult content \u2014 excluded as not relevant for ecommerce audience). Combined with 5 established evergreen products (Mini LED Projector, Neck Fan, Posture Corrector, Pet Hair Remover, LED Strip Lights). Stovepipe Jeans (40.5K, +800%) and Weight Loss Peptides (33.1K, +900%) are the highest-volume fresh trends this cycle. Summer seasonal products (neck fan, mini projector) maintaining peak. Peptide category shows 2 strong entries holding +900% growth from last cycle. Scanner keyword heuristics correctly categorised Milky Moisturizer as 'beauty' this run \u2014 the 2026-05-27 patch held. Stovepipe Jeans was miscategorised as 'gadgets' \u2014 corrected to 'fashion' in final output.",
+  "source_summary": "Scanned via CloakBrowser (stealth Chromium): ExplodingTopics.com (6 potential trend signals detected, 3 matched/categorized, 2 excluded as non-ecommerce: Therapeutic Plasma Exchange (medical procedure) and Socure Inc. (identity verification tech company). Lovescape AI (+3233%) detected but excluded by length heuristic (9 chars, <10 threshold). Stovepipe Jeans not detected this cycle \u2014 dropped off ExplodingTopics top rankings. Combined with 5 established evergreen products (Mini LED Projector, Neck Fan, Posture Corrector, Pet Hair Remover, LED Strip Lights). Weight Loss Peptides (33.1K, +900%) and Epitalon (27.1K, +900%) hold strong as highest-volume fresh trends. Milky Moisturizer (2.9K, +925%) steady week-over-week at lower volume. Summer seasonal (neck fan, mini projector) at June peak. Scanner keyword heuristics correctly categorised all matched products this run.",
   "top_categories": {
     "fitness": 3,
     "gadgets": 2,
-    "fashion": 1,
     "beauty": 1,
     "pets": 1,
     "home": 1
   },
   "recommended_affiliate_programs": [
-    "Amazon Associates",
     "Amazon Associates / CJ Dropshipping",
+    "Amazon Associates / Spocket",
     "Amazon Associates / Spocket / CJ Dropshipping"
   ]
 }
