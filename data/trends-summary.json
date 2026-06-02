@@ -1,31 +1,32 @@
 {
-  "date": "2026-06-01",
-  "scan_timestamp": "2026-06-01T07:04:05Z",
-  "products_found": 8,
+  "date": "2026-06-02",
+  "scan_timestamp": "2026-06-02T07:04:53Z",
+  "products_found": 9,
   "categories": {
     "fitness": 3,
     "gadgets": 2,
     "beauty": 1,
+    "fashion": 1,
     "pets": 1,
     "home": 1
   },
   "top_3_trends": [
     {
       "name": "Weight Loss Peptides (GLP-1 Natural Alternative)",
-      "engagement": "33.1K search volume, +900% growth on ExplodingTopics",
+      "engagement": "40.5K search volume, +900% growth — up +22% week-over-week",
       "category": "fitness"
     },
     {
       "name": "Epitalon (Anti-Aging Peptide)",
-      "engagement": "27.1K search volume, +900% growth on ExplodingTopics",
+      "engagement": "27.1K search volume, +900% growth",
       "category": "fitness"
     },
     {
-      "name": "Milky Moisturizer (Snow Mushroom Skincare)",
-      "engagement": "2.9K search volume, +925% growth on ExplodingTopics",
-      "category": "beauty"
+      "name": "Stovepipe Jeans",
+      "engagement": "22.2K search volume, +800% growth — new Y2K fashion entrant",
+      "category": "fashion"
     }
   ],
   "evergreens_included": 5,
-  "summary": "TrendVault Daily Trend Summary \u2014 2026-06-01\n\nProducts tracked: 8\nCategories: {\"fitness\": 3, \"gadgets\": 2, \"beauty\": 1, \"pets\": 1, \"home\": 1}\n\nTop trends this cycle:\n1. Weight Loss Peptides (33.1K, +900%) \u2014 Fitness. Highest volume fresh trend. GLP-1 natural alternative demand holding.\n2. Epitalon Anti-Aging Peptide (27.1K, +900%) \u2014 Fitness. Longevity biohacker trend stable week-over-week.\n3. Milky Moisturizer Snow Mushroom (2.9K, +925%) \u2014 Beauty. Lower volume but highest growth %.\n4. Mini LED Projector \u2014 Gadgets evergreen. 2-2.5M+ views. Summer outdoor movie season peak.\n5. Neck Fan \u2014 Gadgets evergreen. 3M+ Instagram Reels. June summer heat peak.\n\nAffiliate programs: Amazon Associates, CJ Dropshipping, Spocket"
+  "summary": "TrendVault Daily Trend Summary — 2026-06-02\n\nProducts tracked: 9\nCategories: {\"fitness\": 3, \"gadgets\": 2, \"beauty\": 1, \"fashion\": 1, \"pets\": 1, \"home\": 1}\n\nTop trends this cycle:\n1. Weight Loss Peptides (40.5K, +900%) — Fitness. Volume SURGED +22% week-over-week (33.1K→40.5K). Strongest sustained trend by far. Content priority.\n2. Epitalon Anti-Aging Peptide (27.1K, +900%) — Fitness. Stable. Longevity biohacker trend.\n3. Stovepipe Jeans (22.2K, +800%) — Fashion. NEW entrant. Y2K revival. High volume breakout.\n4. Mini LED Projector — Gadgets evergreen. 2-2.5M+ views. June = peak outdoor movie season.\n5. Neck Fan — Gadgets evergreen. 3M+ Instagram Reels. June summer heat peak.\n6. Milky Moisturizer (2.9K, +925%) — Beauty. Stable.\n\nExcluded: Therapeutic Plasma Exchange (medical procedure, not ecommerce), Lovescape AI (adult content platform, not physical product).\n\nAffiliate programs: Amazon Associates, CJ Dropshipping, Spocket"
 }
